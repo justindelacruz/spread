@@ -227,18 +227,12 @@ var COMPONENTS = (function(components) {
         },
 
         componentDidMount: function() {
-            window.setTimeout(this.show.bind(this), 24);
-
             setInterval(function() {
                 appState.date = new Date();
                 this.setState({
                     date: appState.date
                 })
             }.bind(this), 17);
-        },
-
-        show: function() {
-            $(React.findDOMNode(this)).addClass('slide--show');
         },
 
         render: function() {
@@ -278,9 +272,15 @@ var COMPONENTS = (function(components) {
         getInitialState: function() {
             return appState;
         },
-        componentDidMount: function() {
-            var isScrollWaiting = false;
 
+        show: function() {
+            $(React.findDOMNode(this)).addClass('show');
+        },
+
+        componentDidMount: function() {
+            window.setTimeout(this.show.bind(this), 24);
+
+            var isScrollWaiting = false;
             document.addEventListener('mousewheel', function(e) {
                 var timeout = 1500;
                 var delta = Math.max(-1, Math.min(1, (e.wheelDelta || -e.detail)));
