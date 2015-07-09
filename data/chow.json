@@ -1,0 +1,66 @@
+[
+  {
+    "brand": "chow",
+    "url": "http://www.chow.com/recipes/29193-basic-fish-tacos",
+    "title": "Easy Fish Tacos",
+    "lede": "Fish tacos can be filled with either fried fish (not healthy!) or grilled fish (healthy!). Here’s the healthy version, with a citrus marinade and tangy cabbage slaw.",
+    "image": {
+      "url": "http://search.chow.com/thumbnail/1600/0/www.chowstatic.com/assets/2014/09/29193_basic_tacos_3000x2000.jpg"
+    }
+  },
+  {
+    "brand": "chow",
+    "url": "http://www.chow.com/recipes/30356-easy-slow-cooker-pulled-pork",
+    "title": "Easy Slow Cooker Pulled Pork",
+    "lede": "The whole point of using a slow cooker is to get the ingredients into the cooker quickly and then be able to walk away.",
+    "image": {
+      "url": "http://search.chow.com/thumbnail/1600/0/www.chowstatic.com/assets/2014/09/30356_slow_cooker_pork_3000x2000.jpg"
+    }
+  },
+  {
+    "brand": "chow",
+    "url": "http://www.chow.com/recipes/30412-strawberry-cheesecake-ice-cream",
+    "title": "Strawberry Cheesecake Ice Cream",
+    "lede": "After getting my hands on some of Biscoff’s spiced cookie spread, I wasn’t sure what to do with it, because it tasted like graham crackers but was smooth like peanut butter.",
+    "image": {
+      "url": "http://search.chow.com/thumbnail/1600/0/www.chowstatic.com/assets/recipe_photos/30412_strawberry_cheesecake_ice_cream.jpg"
+    }
+  },
+  {
+    "brand": "chow",
+    "url": "http://www.chow.com/recipes/31263-grilled-salmon-lemon-aioli-paprika",
+    "title": "Paprika Grilled Salmon with Lemon Aioli",
+    "lede": "Fresh salmon fillets marinate briefly in olive oil and paprika before meeting a hot grill pan in this simple recipe. A classic aioli (garlic mayonnaise) punched up with lemon and Dijon mustard is the perfect accompaniment.",
+    "image": {
+      "url": "http://search.chow.com/thumbnail/1600/0/www.chowstatic.com/assets/2015/01/31263_RecipeImage_paprika_grilled_salmon_lemon_aioli_inline_3000_1.jpg"
+    }
+  },
+  {
+    "brand": "chow",
+    "url": "http://www.chow.com/recipes/31178-slow-cooker-pork-ramen",
+    "title": "Slow Cooker Pork Ramen",
+    "lede": "The finest Japanese pork ramen takes considerable culinary skill and many hours to create. Here is a simplified, yet still delicious, version that boasts plenty of succulent braised pork.",
+    "image": {
+      "url": "http://search.chow.com/thumbnail/1600/0/www.chowstatic.com/assets/2014/11/31178_slow_cooker_pork_ramen_3000.jpg"
+    }
+  },
+  {
+    "brand": "chow",
+    "url": "http://www.chow.com/recipes/31365-chocolate-mint-brownies",
+    "title": "Chocolate Mint Brownies",
+    "lede": "For this classic chocolate mint brownies recipes, chocolate-covered peppermint patties candies are baked into a rich brownie batter.",
+    "image": {
+      "url": "http://search.chow.com/thumbnail/1600/0/www.chowstatic.com/assets/2015/04/31365_chocolate_mint_brownies.jpg"
+    }
+  },
+  {
+    "brand": "chow",
+    "url": "http://www.chow.com/recipes/30210-grilled-shishito-peppers",
+    "title": "Grilled Shishito Peppers",
+    "lede": "This grilled shishito peppers recipe is sprinkled with togarashi for an extra kick of spice.",
+    "image": {
+      "url": "http://search.chow.com/thumbnail/1600/0/www.chowstatic.com/assets/recipe_photos/30210_grilled_shishito_peppers.jpg"
+    }
+  }
+]
+

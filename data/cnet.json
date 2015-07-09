@@ -1,0 +1,82 @@
+[
+  {
+    "brand": "cnet",
+    "url": "http://www.cnet.com/pictures/goodwood-festival-of-speed-is-the-car-lovers-paradise-pictures/",
+    "title": "The Goodwood Festival of Speed is a car lover's paradise",
+    "lede": "We headed to the Goodwood Festival of Speed to see all the supercars, classic racers and custom creations that this motoring celebration has to offer.",
+    "image": {
+      "url": "http://cnet1.cbsistatic.com/hub/i/r/2015/06/29/a4b830bf-6ea0-4e97-8e9f-ecda5371395e/goodwood-festival-speed-2015-32.jpg",
+      "credit": "CREDIT: Andrew Hoyle/CNET"
+    }
+  },
+  {
+    "brand": "cnet",
+    "url": "http://www.cnet.com/pictures/top-rated-reviews-of-the-week-pictures-06-26-2015/",
+    "title": "Top-rated reviews of the week (pictures)",
+    "lede": "Buckle up; it's time again for the weekly wrap-up of the rated tech products deemed awesome by CNET editors, from SSDs to cars.",
+    "image": {
+      "url": "http://cnet3.cbsistatic.com/hub/i/r/2015/06/17/4604072e-b9ee-42b7-9cff-7b395407f727/2015bmwm235i-010.jpg",
+      "credit": "CREDIT: Sarah Tew/CNET"
+    }
+  },
+  {
+    "brand": "cnet",
+    "url": "http://www.cnet.com/pictures/audi-shows-off-more-aerodynamic-high-tech-a4-model-pictures/",
+    "title": "Audi shows off more aerodynamic, high-tech A4 model (pictures)",
+    "lede": "Audi released specifications and photos of the 2017 A4 model today, showing a design that comports with other new models in the range, and a wealth of new technology.",
+    "image": {
+      "url": "http://cnet1.cbsistatic.com/hub/i/r/2015/06/29/51debb2b-a35c-4e21-9d3e-96a58a86078e/2017audia4-000.jpg",
+      "credit": "CREDIT: Audi"
+    }
+  },
+  {
+    "brand": "cnet",
+    "url": "http://www.cnet.com/pictures/best-tech-under-50-dollars/",
+    "title": "Best tech under $50",
+    "lede": "Yes, you can spend less than $50 and still get some great tech. Here are CNET's favorites as of summer 2015.",
+    "image": {
+      "url": "http://cnet1.cbsistatic.com/hub/i/r/2015/04/19/0a917f02-c391-4e6c-aacb-944330ae93dd/under50-spring2015-07.jpg",
+      "credit": "CREDIT: Sarah Tew/CNET"
+    }
+  },
+  {
+    "brand": "cnet",
+    "url": "http://www.cnet.com/pictures/meet-industrys-3d-printed-titanium-bicycle-pictures/",
+    "title": "Meet Industry's 3D-printed titanium bicycle (pictures)",
+    "lede": "The Solid bike, which includes a built-in navigation system and accompanying smartphone app, was created to assess new trends in product development and manufacturing.",
+    "image": {
+      "url": "http://cnet4.cbsistatic.com/hub/i/r/2015/05/28/e7d7faaf-ca4c-4bd3-860d-9a4ebe00c34f/20150528-industry-solid-3d-printed-titanium-bicycle-016.jpg",
+      "credit": "CREDIT: Industry"
+    }
+  },
+  {
+    "brand": "cnet",
+    "url": "http://www.cnet.com/pictures/oculus-rift-retail-pictures/",
+    "title": "This is the final version of the Oculus Rift (pictures)",
+    "lede": "After years of prototypes and updates, Oculus Rift is ready to debut a final version that anyone can buy in 2016.",
+    "image": {
+      "url": "http://cnet3.cbsistatic.com/hub/i/r/2015/06/11/6b434dca-34a0-4794-a11e-921a749729df/oculus-rift-oculus-touch-virtual-reality-8523.jpg",
+      "credit": "CREDIT: James Martin/CNET"
+    }
+  },
+  {
+    "brand": "cnet",
+    "url": "http://www.cnet.com/pictures/kenmore-elite-41313-electric-convection-range-pictures/",
+    "title": "Kenmore's electric range feels quite limited (pictures)",
+    "lede": "Click through the gallery to take a tour of the $2,600 Kenmore Elite 41313 electric range.",
+    "image": {
+      "url": "http://cnet4.cbsistatic.com/hub/i/r/2015/05/16/35fb28dd-b3e1-469a-b81a-3e2be3a6b6de/kenmore-41313-electric-oven-range-product-photos-11.jpg",
+      "credit": "CREDIT: Tyler Lizenby/CNET"
+    }
+  },
+  {
+    "brand": "cnet",
+    "url": "http://www.cnet.com/pictures/check-out-the-huawei-snapto-pictures/",
+    "title": "Check out the Huawei SnapTo (pictures)",
+    "lede": "Take a closer look at Huawei's no-frills budget device.",
+    "image": {
+      "url": "http://cnet4.cbsistatic.com/hub/i/r/2015/04/25/37dbcd30-2012-4b3b-b1ae-5e38a826f43d/huawei-snapto-2748-001.jpg",
+      "credit": "CREDIT: Josh Miller/CNET"
+    }
+  }
+]

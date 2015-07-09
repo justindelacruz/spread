@@ -1,0 +1,82 @@
+[
+  {
+    "brand": "cbsnews",
+    "url": "http://www.cbsnews.com/pictures/team-usa-2015-world-cup-highlights/",
+    "title": "Team USA 2015 World Cup highlights",
+    "lede": "From missed penalty kicks to cringeworthy collisions and lifesaving last-minute goals, here's a look at the American players' make-or-break moments on the road to World Cup victory.",
+    "image": {
+      "url": "http://cbsnews2.cbsistatic.com/hub/i/r/2015/07/05/fa80d544-a3cc-436d-8cf4-dd968a59ad74/1c35193dc96b71105452d345f3426c40/gettyimages-476397130.jpg",
+      "credit": "CREDIT: Kevin C. Cox/Getty Images"
+    }
+  },
+  {
+    "brand": "cbsnews",
+    "url": "http://www.cbsnews.com/pictures/fireworks-2015/",
+    "title": "Fireworks! 2015",
+    "lede": "America celebrates Independence Day with a bang",
+    "image": {
+      "url": "http://cbsnews1.cbsistatic.com/hub/i/r/2015/07/04/99dd5e78-09fe-4816-87af-075a3ca3f0c0/33c61ab1f03cfd488b8bb6d3fbc42282/fireworks-2015-getty-479402778.jpg",
+      "credit": "CREDIT: DON EMMERT/AFP/Getty Images"
+    }
+  },
+  {
+    "brand": "cbsnews",
+    "url": "http://www.cbsnews.com/pictures/photos-of-the-week-june-27-july-3-2015/",
+    "title": "Photos of the Week",
+    "lede": "Week in review: The most compelling photos from the week's news, June 27-July 3, 2015, including Girl Scouts camping at the White House, Greece's debt crisis and the exploding SpaceX Falcon 9 rocket.",
+    "image": {
+      "url": "http://cbsnews1.cbsistatic.com/hub/i/r/2015/07/03/99a6e54a-e0b9-42b0-8061-fe9a2dcccbae/gettyimages-479147148.jpg",
+      "credit": "CREDIT: Robin Van Lonkhuijsen/AFP/Getty Images"
+    }
+  },
+  {
+    "brand": "cbsnews",
+    "url": "http://www.cbsnews.com/pictures/houses-of-cards/",
+    "title": "Houses of cards",
+    "lede": "Bryan Berg is a master cardstacker who can turn just about anything into a house of cards. Berg has won several Guiness World Records for his delicate creations which have been on display across the world.",
+    "image": {
+      "url": "http://cbsnews2.cbsistatic.com/hub/i/r/2015/07/01/375f44c9-5865-4804-993b-6129e52b30c8/cardstackergridtechnique.jpg",
+      "credit": "CREDIT: Bryan Berg"
+    }
+  },
+  {
+    "brand": "cbsnews",
+    "url": "http://www.cbsnews.com/pictures/what-am-i-seeing-strange-odd-pictures-july-3-2015/",
+    "title": "What am I seeing?",
+    "lede": "Some images just seem to need more explanation than others. In our weekly series, we share images from the news that piqued our curiosity and raised questions.",
+    "image": {
+      "url": "http://cbsnews1.cbsistatic.com/hub/i/r/2015/07/05/43bef1f9-4ff7-4dd5-ad37-f87a02d5f61c/rtx1i4y9.jpg",
+      "credit": "CREDIT: Darren Staples/Reuters"
+    }
+  },
+  {
+    "brand": "cbsnews",
+    "url": "http://www.cbsnews.com/pictures/wildfires-in-the-west/",
+    "title": "Wildfires in the West",
+    "lede": "The Bogus Creek Fire burns in the Yukon Delta National Wildlife Refuge in southwest Alaska, June 7, 2015. The 25,260-acre fire, now extinguished, was reportedly started by lightning on May 31, 2015.",
+    "image": {
+      "url": "http://cbsnews1.cbsistatic.com/hub/i/r/2015/06/22/921919a1-ef17-49d6-88dd-7cbbd8ce5dc3/rtx1fsc5.jpg",
+      "credit": "CREDIT: Matt Snyder/Alaska Division of Forestry/Reuters"
+    }
+  },
+  {
+    "brand": "cbsnews",
+    "url": "www.cbsnews.com/pictures/calbuco-volcano-erupts-in-chile/",
+    "title": "Calbuco volcano erupts in Chile",
+    "lede": "View from Frutillar, southern Chile, showing volcanic lightnings and lava spewing from the Calbuco volcano, April 23, 2015.",
+    "image": {
+      "url": "http://cbsnews2.cbsistatic.com/hub/i/r/2015/04/23/9c698dfb-e030-48fa-97a7-d8154f4363cb/chile-volcano-calbucogettyimages-470799654.jpg",
+      "credit": "CREDIT: Martin Bernetti/AFP/Getty"
+    }
+  },
+  {
+    "brand": "cbsnews",
+    "url": "http://www.cbsnews.com/pictures/view-from-above-aerial-photography/",
+    "title": "View from above",
+    "lede": "The organized chaos of John F. Kennedy International Airport in New York.",
+    "image": {
+      "url": "http://cbsnews2.cbsistatic.com/hub/i/r/2015/07/08/3759e29c-c0e7-49bd-8e86-fb5dfd360af4/virgin-boeing-747-400.jpg",
+      "credit": "CREDIT: Jeffrey Milstein"
+    }
+  }
+]
