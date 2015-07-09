@@ -4,7 +4,7 @@ html, body {
   overflow: hidden; }
 
 body {
-  font-family: 'Helvetica Neue', sans-serif;
+  font-family: Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-style: normal;
   font-variant: normal;
   font-weight: 100;
@@ -16,8 +16,12 @@ a {
   a:hover {
     color: red; }
 
-.top-left {
-  position: absolute; }
+.top-center {
+  position: absolute;
+  z-index: 10;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+  -webkit-transform-origin: 50% 50%; }
 
 .top-right {
   position: fixed;
@@ -177,7 +181,7 @@ a {
     .slide__preferences-title {
       text-transform: uppercase;
       text-align: center;
-      font-weight: 500;
+      font-weight: 400;
       margin-bottom: 10px; }
     .slide__preferences-checked, .slide__preferences-unchecked {
       float: right;

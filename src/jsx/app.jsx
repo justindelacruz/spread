@@ -89,7 +89,7 @@
                         <BackgroundImage image={this.props.asset.image} />
                     </div>
                     <div className="top"></div>
-                    <div className="top-left">
+                    <div className="top-center">
                         <Clock date={this.state.date} />
                     </div>
                     <div className="top-right">

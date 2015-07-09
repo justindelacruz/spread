@@ -146,10 +146,10 @@ var COMPONENTS = (function(components) {
     components.ProgressDots = React.createClass({displayName: "ProgressDots",
         render: function() {
             var dot;
-            if (this.props.slideKey == this.props.currentSlide) {
-                dot = React.createElement("i", {className: "fa fa-circle"});
+            if (this.props.slideKey <= this.props.currentSlide) {
+                dot = React.createElement("i", {className: "fa fa-circle fa-2x"});
             } else {
-                dot = React.createElement("i", {className: "fa fa-circle-thin"});
+                dot = React.createElement("i", {className: "fa fa-circle-thin fa-2x"});
             }
 
             return (
@@ -267,7 +267,7 @@ var COMPONENTS = (function(components) {
                         React.createElement(BackgroundImage, {image: this.props.asset.image})
                     ), 
                     React.createElement("div", {className: "top"}), 
-                    React.createElement("div", {className: "top-left"}, 
+                    React.createElement("div", {className: "top-center"}, 
                         React.createElement(Clock, {date: this.state.date})
                     ), 
                     React.createElement("div", {className: "top-right"}, 
