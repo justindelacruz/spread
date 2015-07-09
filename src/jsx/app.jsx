@@ -4,8 +4,9 @@
         Logo = COMPONENTS.Logo,
         Toolbar = COMPONENTS.Toolbar,
         Clock = COMPONENTS.Clock,
-        Preferences = COMPONENTS.Preferences;
-        Credit = COMPONENTS.Credit;
+        Preferences = COMPONENTS.Preferences,
+        Credit = COMPONENTS.Credit,
+        ProgressDots = COMPONENTS.ProgressDots;
 
     var appState = {
         settingsOpen: false,
@@ -13,7 +14,7 @@
         sources: {
             chow: true,
             cbsnews: true,
-            cnet: false
+            cnet: true
         },
         urls: {
             chow: 'data/chow.json',
@@ -171,9 +172,18 @@
                 slides.push(<Slide asset={asset} key={i} slideKey={i} currentSlide={appState.currentSlide} />)
             });
 
+            var dots = [];
+            _.times(this.props.assets.length, function(n) {
+                dots.push(<ProgressDots slideKey={n} currentSlide={appState.currentSlide} />);
+            });
+
             return (
                 <div id="slides">
                     {slides}
+                    <div className="left">
+                        {dots}
+
+                    </div>
                 </div>
             );
 

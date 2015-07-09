@@ -143,6 +143,27 @@ var COMPONENTS = (function(components) {
 })(COMPONENTS || {});
 ;var COMPONENTS = (function(components) {
 
+    components.ProgressDots = React.createClass({displayName: "ProgressDots",
+        render: function() {
+            var dot;
+            if (this.props.slideKey == this.props.currentSlide) {
+                dot = React.createElement("i", {className: "fa fa-circle"});
+            } else {
+                dot = React.createElement("i", {className: "fa fa-circle-thin"});
+            }
+
+            return (
+                React.createElement("div", {className: "progressDots"}, 
+                    dot
+                )
+            );
+        }
+    });
+
+    return components;
+})(COMPONENTS || {});
+;var COMPONENTS = (function(components) {
+
     components.Toolbar = React.createClass({displayName: "Toolbar",
         render: function() {
             return (
@@ -161,8 +182,9 @@ var COMPONENTS = (function(components) {
         Logo = COMPONENTS.Logo,
         Toolbar = COMPONENTS.Toolbar,
         Clock = COMPONENTS.Clock,
-        Preferences = COMPONENTS.Preferences;
-        Credit = COMPONENTS.Credit;
+        Preferences = COMPONENTS.Preferences,
+        Credit = COMPONENTS.Credit,
+        ProgressDots = COMPONENTS.ProgressDots;
 
     var appState = {
         settingsOpen: false,
@@ -170,7 +192,7 @@ var COMPONENTS = (function(components) {
         sources: {
             chow: true,
             cbsnews: true,
-            cnet: false
+            cnet: true
         },
         urls: {
             chow: 'data/chow.json',
@@ -328,9 +350,18 @@ var COMPONENTS = (function(components) {
                 slides.push(React.createElement(Slide, {asset: asset, key: i, slideKey: i, currentSlide: appState.currentSlide}))
             });
 
+            var dots = [];
+            _.times(this.props.assets.length, function(n) {
+                dots.push(React.createElement(ProgressDots, {slideKey: n, currentSlide: appState.currentSlide}));
+            });
+
             return (
                 React.createElement("div", {id: "slides"}, 
-                    slides
+                    slides, 
+                    React.createElement("div", {className: "left"}, 
+                        dots
+
+                    )
                 )
             );
 
